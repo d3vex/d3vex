@@ -47,7 +47,8 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 
 | Project | Description | Status |
 |---|---|---|
-| 📈 **Scalping Trading Bot** | Automated trading bot with custom strategy engine | 🔨 In progress |
+| 🗿 **Portfolio** | My own portfolio website built with VueJS | 🔨 In progress |
+| 📈 **Scalping Trading Bot** | Automated trading bot with custom strategy engine | 🧪 In Test Phase |
 | 🏠 **Homelab** | Full self-hosted stack — Jellyfin, mail, Docuseal, web & more | 🔄 Always evolving |
 
 ---
