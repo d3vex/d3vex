@@ -68,6 +68,79 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 39.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 56 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                876 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+🌆 Daytime                4048 commits        ██████████████░░░░░░░░░░░   54.63 % 
+🌃 Evening                1821 commits        ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+🌙 Night                  665 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2179 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Tuesday                  1687 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Wednesday                1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Thursday                 1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Friday                   860 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Saturday                 38 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Sunday                   166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/05/2026 23:20:09 UTC
 <!--END_SECTION:waka-->
 
 ---
