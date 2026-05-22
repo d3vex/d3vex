@@ -67,7 +67,6 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 </div>
 
 ---
