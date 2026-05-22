@@ -64,6 +64,10 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=D3vex&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 </div>
 
 ---
