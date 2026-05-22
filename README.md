@@ -20,7 +20,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 - 📈 Currently building a **scalping trading bot** — because why not automate the chaos
 - 🇫🇷 Proud **porte-drapeau** in a French military veterans association
 - 🐧 Linux enthusiast — and yes, I use **Arch btw**
-- ⚡ Fun fact: WHYYY FUN FACT DO NOT SHOWWW???? ~~How i forgot to call print_fun_fact()....~~
+- ⚡ Fun fact: WHYYY FUN FACT DO NOT SHOWWW???? How i forgot to call ~~print_fun_fact()....~~
 
 ---
 
