@@ -68,9 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -111,16 +109,24 @@ Sunday                   166 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue                      1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+TypeScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Python                   54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fil-rouge                2 hrs 10 mins       █████████████░░░░░░░░░░░░   52.03 % 
+scalpe-trading-bot       1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
+config                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+degraded_points_app      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+portfolio                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,7 +146,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 23:20:09 UTC
+ Last Updated on 23/05/2026 22:28:49 UTC
 <!--END_SECTION:waka-->
 
 ---
