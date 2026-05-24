@@ -68,6 +68,8 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -146,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 22:28:49 UTC
+ Last Updated on 24/05/2026 22:35:09 UTC
 <!--END_SECTION:waka-->
 
 ---
