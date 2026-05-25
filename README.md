@@ -111,24 +111,24 @@ Sunday                   166 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-TypeScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Python                   54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Vue                      1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+TypeScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Python                   51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fil-rouge                2 hrs 10 mins       █████████████░░░░░░░░░░░░   52.03 % 
-scalpe-trading-bot       1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
-config                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-degraded_points_app      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-portfolio                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+fil-rouge                2 hrs 7 mins        █████████████░░░░░░░░░░░░   51.44 % 
+scalpe-trading-bot       1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.29 % 
+config                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+degraded_points_app      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+portfolio                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-Linux                    4 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 22:35:09 UTC
+ Last Updated on 25/05/2026 23:01:15 UTC
 <!--END_SECTION:waka-->
 
 ---
