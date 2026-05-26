@@ -74,7 +74,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 
 **🐱 My GitHub Data** 
 
-> 📦 39.4 kB Used in GitHub's Storage 
+> 📦 39.5 kB Used in GitHub's Storage 
  > 
 > 🏆 56 Contributions in the Year 2026
  > 
@@ -87,19 +87,19 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                876 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-🌆 Daytime                4048 commits        ██████████████░░░░░░░░░░░   54.63 % 
+🌞 Morning                877 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+🌆 Daytime                4048 commits        ██████████████░░░░░░░░░░░   54.61 % 
 🌃 Evening                1821 commits        ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-🌙 Night                  665 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+🌙 Night                  666 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2179 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Tuesday                  1687 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Wednesday                1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Monday                   2179 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Tuesday                  1689 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Wednesday                1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 Thursday                 1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Friday                   860 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Friday                   860 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 Saturday                 38 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Sunday                   166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
@@ -111,24 +111,23 @@ Sunday                   166 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-TypeScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-Python                   51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Vue                      1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   32.28 % 
+TypeScript               1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   30.39 % 
+JavaScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fil-rouge                2 hrs 7 mins        █████████████░░░░░░░░░░░░   51.44 % 
-scalpe-trading-bot       1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.29 % 
-config                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-degraded_points_app      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-portfolio                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+scalpe-trading-bot       1 hr 31 mins        ███████████░░░░░░░░░░░░░░   45.07 % 
+fil-rouge                1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.75 % 
+portfolio                20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+degraded_points_app      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 Operating System: 
-Linux                    4 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +147,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2026 23:01:15 UTC
+ Last Updated on 26/05/2026 15:46:17 UTC
 <!--END_SECTION:waka-->
 
 ---
