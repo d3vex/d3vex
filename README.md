@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue?style=flat)
 
@@ -111,24 +111,24 @@ Sunday                   166 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.12 % 
-Markdown                 2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Vue                      2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Python                   1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-JavaScript               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+TypeScript               5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+HTML                     3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Markdown                 2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Vue                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Python                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GameScore---Yboost-B2    8 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.33 % 
-portfolio                4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-scalpe-trading-bot       1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-PythonPumpConnector      1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-ProbabilityX             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+GameScore---Yboost-B2    8 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.28 % 
+portfolio                6 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
+PythonPumpConnector      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+scalpe-trading-bot       1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+ProbabilityX             1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Linux                    17 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 23:49:23 UTC
+ Last Updated on 30/05/2026 22:38:43 UTC
 <!--END_SECTION:waka-->
 
 ---
