@@ -68,40 +68,40 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 39.5 kB Used in GitHub's Storage 
+> 📦 39.6 kB Used in GitHub's Storage 
  > 
-> 🏆 88 Contributions in the Year 2026
+> 🏆 130 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                886 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-🌆 Daytime                4097 commits        ██████████████░░░░░░░░░░░   54.32 % 
-🌃 Evening                1822 commits        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-🌙 Night                  738 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+🌞 Morning                888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌆 Daytime                4107 commits        ██████████████░░░░░░░░░░░   54.10 % 
+🌃 Evening                1858 commits        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+🌙 Night                  738 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2179 commits        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Tuesday                  1689 commits        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Wednesday                1397 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Thursday                 1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   860 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Monday                   2227 commits        ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Tuesday                  1689 commits        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Wednesday                1397 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Thursday                 1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Friday                   860 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 Saturday                 38 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Sunday                   166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Sunday                   166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 
 
@@ -131,14 +131,14 @@ ProbabilityX             1 hr 7 mins         █░░░░░░░░░░�
 Linux                    19 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -148,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 22:38:26 UTC
+ Last Updated on 02/06/2026 01:01:10 UTC
 <!--END_SECTION:waka-->
 
 ---
