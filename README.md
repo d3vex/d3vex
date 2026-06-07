@@ -68,8 +68,6 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -111,24 +109,24 @@ Sunday                   168 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     7 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
-HTML                     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-TypeScript               3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Vue                      3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Java                     7 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
+TypeScript               3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Vue                      3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+HTML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+YAML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ynov-b2-java-web-server  8 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.14 % 
-portfolio                7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-scalpe-trading-bot       3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-docker                   2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-political_back_v1        1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+ynov-b2-java-web-server  8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
+portfolio                4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+scalpe-trading-bot       3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+docker                   1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+political_back_v1        1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 💻 Operating System: 
-Linux                    23 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +146,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 22:44:54 UTC
+ Last Updated on 07/06/2026 22:55:24 UTC
 <!--END_SECTION:waka-->
 
 ---
