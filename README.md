@@ -68,13 +68,15 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2046%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 41.0 kB Used in GitHub's Storage 
  > 
-> 🏆 153 Contributions in the Year 2026
+> 🏆 191 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,11 +84,58 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌆 Daytime                4165 commits        █████████████░░░░░░░░░░░░   52.98 % 
+🌃 Evening                1941 commits        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+🌙 Night                  841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2259 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Tuesday                  1731 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Wednesday                1432 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Thursday                 1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Friday                   881 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Saturday                 80 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Sunday                   256 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               9 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.59 % 
+Java                     5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Vue                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 58 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+fil-rouge                12 hrs 59 mins      ███████████████░░░░░░░░░░   61.92 % 
+lets-play                3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+ynov-b2-java-web-server  2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+scalpe-trading-bot       1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+portfolio                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+
+💻 Operating System: 
+Linux                    20 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
@@ -99,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 22:57:25 UTC
+ Last Updated on 14/06/2026 23:07:49 UTC
 <!--END_SECTION:waka-->
 
 ---
