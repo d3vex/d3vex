@@ -68,15 +68,15 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 41.0 kB Used in GitHub's Storage 
+> 📦 41.1 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2026
+> 🏆 194 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,21 +87,21 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-🌆 Daytime                4165 commits        █████████████░░░░░░░░░░░░   52.98 % 
-🌃 Evening                1941 commits        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-🌙 Night                  841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+🌞 Morning                914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+🌆 Daytime                4172 commits        █████████████░░░░░░░░░░░░   51.84 % 
+🌃 Evening                2037 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+🌙 Night                  925 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2259 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-Tuesday                  1731 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Wednesday                1432 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Thursday                 1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Friday                   881 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Saturday                 80 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Sunday                   256 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Monday                   2288 commits        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Tuesday                  1731 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Wednesday                1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Thursday                 1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Friday                   881 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Saturday                 92 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Sunday                   402 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -111,24 +111,24 @@ Sunday                   256 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               9 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.59 % 
-Java                     5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-Vue                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+TypeScript               12 hrs 56 mins      ████████████░░░░░░░░░░░░░   48.05 % 
+Java                     5 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Vue                      4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fil-rouge                12 hrs 59 mins      ███████████████░░░░░░░░░░   61.92 % 
-lets-play                3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-ynov-b2-java-web-server  2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-scalpe-trading-bot       1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-portfolio                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+fil-rouge                18 hrs 56 mins      ██████████████████░░░░░░░   70.35 % 
+lets-play                3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+ynov-b2-java-web-server  2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+scalpe-trading-bot       1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+portfolio                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Linux                    20 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 23:07:49 UTC
+ Last Updated on 16/06/2026 00:46:44 UTC
 <!--END_SECTION:waka-->
 
 ---
