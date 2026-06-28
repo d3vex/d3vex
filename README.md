@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -111,22 +111,23 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               4 hrs 57 mins       ███████████████░░░░░░░░░░   59.51 % 
-Python                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Vue                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+TypeScript               6 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
+Rust                     2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Python                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Vue                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                7 hrs 10 mins       ██████████████████████░░░   86.11 % 
-PythonPumpConnector      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-PythonSake               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+portfolio                10 hrs 4 mins       █████████████████░░░░░░░░   67.70 % 
+facial_recognition       3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+PythonPumpConnector      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+PythonSake               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    8 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +147,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2026 22:59:48 UTC
+ Last Updated on 28/06/2026 23:03:43 UTC
 <!--END_SECTION:waka-->
 
 ---
