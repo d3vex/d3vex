@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -111,21 +111,21 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Rust                     5 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-TypeScript               5 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
-TOML                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Vue                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Rust                     8 hrs 58 mins       █████████████░░░░░░░░░░░░   53.96 % 
+TypeScript               2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+TOML                     2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                9 hrs 9 mins        █████████████░░░░░░░░░░░░   52.71 % 
-facial_recognition       8 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.29 % 
+facial_recognition       11 hrs 49 mins      ██████████████████░░░░░░░   71.13 % 
+portfolio                4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 
 💻 Operating System: 
-Linux                    17 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +145,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2026 23:28:19 UTC
+ Last Updated on 30/06/2026 23:55:01 UTC
 <!--END_SECTION:waka-->
 
 ---
