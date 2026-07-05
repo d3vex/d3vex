@@ -111,24 +111,23 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Rust                     8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Markdown                 7 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-TypeScript               5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-TOML                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Bash                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Markdown                 7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
+Rust                     6 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.12 % 
+TypeScript               2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+TOML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Bash                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  21 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-facial_recognition       11 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.61 % 
-TouTouWash               7 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-tp-01                    4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-portfolio                4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-sirene                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+facial_recognition       8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
+TouTouWash               7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.27 % 
+tp-01                    4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+sirene                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Linux                    29 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    21 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +147,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 22:57:33 UTC
+ Last Updated on 05/07/2026 22:55:53 UTC
 <!--END_SECTION:waka-->
 
 ---
