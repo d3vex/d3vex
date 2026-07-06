@@ -111,23 +111,23 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
-Rust                     6 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.12 % 
-TypeScript               2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-TOML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Bash                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Markdown                 7 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.13 % 
+Rust                     3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+TypeScript               2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Bash                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-facial_recognition       8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
-TouTouWash               7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.27 % 
-tp-01                    4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-sirene                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TouTouWash               7 hrs 54 mins       ████████████░░░░░░░░░░░░░   47.47 % 
+tp-01                    4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+facial_recognition       3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+sirene                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Linux                    21 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 22:55:53 UTC
+ Last Updated on 06/07/2026 23:34:42 UTC
 <!--END_SECTION:waka-->
 
 ---
