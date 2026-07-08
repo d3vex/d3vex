@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -111,24 +111,24 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 7 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.97 % 
-TypeScript               3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Other                    2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+TypeScript               4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Markdown                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Other                    2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Vue                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TouTouWash               7 hrs 54 mins       ████████████░░░░░░░░░░░░░   46.14 % 
-tp-01                    4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-political                2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-political_back_v1        1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-sirene                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+tp-01                    4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.69 % 
+TouTouWash               2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+political                2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+political_front_v1       1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+political_back_v1        1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 
 💻 Operating System: 
-Linux                    17 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 23:37:23 UTC
+ Last Updated on 08/07/2026 23:34:07 UTC
 <!--END_SECTION:waka-->
 
 ---
