@@ -111,24 +111,24 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      6 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.19 % 
-Other                    3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-TypeScript               2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Vue                      6 hrs 30 mins       ████████████████░░░░░░░░░   63.89 % 
+TypeScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Other                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+JavaScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-calendrier               5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.27 % 
-lbat                     2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-political                2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-political_front_v1       1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-political_back_v1        1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+calendrier               5 hrs 27 mins       █████████████░░░░░░░░░░░░   53.68 % 
+lbat                     2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+political_front_v1       1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+portfolio                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+political_back_v1        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Linux                    14 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 23:16:14 UTC
+ Last Updated on 14/07/2026 23:34:06 UTC
 <!--END_SECTION:waka-->
 
 ---
