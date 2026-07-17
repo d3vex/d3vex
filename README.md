@@ -111,22 +111,22 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      5 hrs 32 mins       ████████████████░░░░░░░░░   64.35 % 
-Other                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-JavaScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-TypeScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Vue                      3 hrs 51 mins       ████████████████░░░░░░░░░   65.49 % 
+Other                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+TypeScript               47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-calendrier               5 hrs 29 mins       ████████████████░░░░░░░░░   63.80 % 
-lbat                     3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.97 % 
-political_front_v1       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+calendrier               5 hrs 29 mins       ███████████████████████░░   93.34 % 
+lbat                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+political_front_v1       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    8 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +146,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 23:27:17 UTC
+ Last Updated on 17/07/2026 23:03:29 UTC
 <!--END_SECTION:waka-->
 
 ---
