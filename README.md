@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -111,22 +111,18 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      3 hrs 51 mins       ████████████████░░░░░░░░░   65.49 % 
-Other                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-TypeScript               47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Vue                      1 hr 36 mins        █████████████████████████   98.17 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-calendrier               5 hrs 29 mins       ███████████████████████░░   93.34 % 
-lbat                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-political_front_v1       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+calendrier               1 hr 16 mins        ███████████████████░░░░░░   77.37 % 
+lbat                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
 
 💻 Operating System: 
-Linux                    5 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +142,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 23:03:29 UTC
+ Last Updated on 18/07/2026 22:52:22 UTC
 <!--END_SECTION:waka-->
 
 ---
