@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -111,18 +111,19 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      1 hr 36 mins        █████████████████████████   98.17 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Vue                      4 hrs 29 mins       ████████████████████████░   97.67 % 
+TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-calendrier               1 hr 16 mins        ███████████████████░░░░░░   77.37 % 
-lbat                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+calendrier               4 hrs 13 mins       ███████████████████████░░   91.91 % 
+lbat                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 💻 Operating System: 
-Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,7 +143,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 22:52:22 UTC
+ Last Updated on 19/07/2026 22:48:01 UTC
 <!--END_SECTION:waka-->
 
 ---
