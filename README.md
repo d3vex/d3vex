@@ -74,7 +74,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 
 > 📦 41.2 kB Used in GitHub's Storage 
  > 
-> 🏆 195 Contributions in the Year 2026
+> 🏆 196 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,11 +85,11 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
@@ -99,7 +99,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 23:21:19 UTC
+ Last Updated on 24/07/2026 23:30:46 UTC
 <!--END_SECTION:waka-->
 
 ---
