@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -111,24 +111,24 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      14 hrs 50 mins      ███████████████░░░░░░░░░░   61.88 % 
-TypeScript               6 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Vue                      12 hrs 44 mins      █████████████░░░░░░░░░░░░   52.77 % 
+TypeScript               6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+C                        1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 58 mins      █████████████████████████   99.98 % 
+VS Code                  24 hrs 8 mins       █████████████████████████   99.98 % 
 Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-calendrier               14 hrs 49 mins      ███████████████░░░░░░░░░░   61.85 % 
-guitar_learn             8 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.94 % 
-PythonPumpConnector      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+calendrier               11 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.21 % 
+guitar_learn             9 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.92 % 
+PythonPumpConnector      2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 sn-radio                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    23 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 23:11:27 UTC
+ Last Updated on 26/07/2026 23:16:09 UTC
 <!--END_SECTION:waka-->
 
 ---
