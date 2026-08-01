@@ -113,48 +113,48 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      5 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.25 % 
-TypeScript               3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-C                        1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Vue                      2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
+TypeScript               2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+C                        1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Python                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 40 mins      █████████████████████████   99.97 % 
+VS Code                  8 hrs 49 mins       █████████████████████████   99.97 % 
 Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-tp-01                    5 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.50 % 
-guitar_learn             4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.38 % 
-PythonPumpConnector      2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-config                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-scrapper                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+tp-01                    5 hrs 8 mins        ██████████████░░░░░░░░░░░   56.98 % 
+PythonPumpConnector      2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+guitar_learn             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+config                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+scrapper                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-Linux                    12 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 8 mins (87.87%)
+⏱ AI Coding Time: 7 hrs 16 mins (82.57%)
 
-✍️ 1,260 lines written by AI, 4 lines written by hand (99.68% AI-written)
+✍️ 790 lines written by AI, 4 lines written by hand (99.5% AI-written)
 
-🔤 3,237,132 Input Tokens, 158,526 Output Tokens
+🔤 2,521,498 Input Tokens, 123,589 Output Tokens
 
-💵 $12.96 Estimated AI Cost This Week
+💵 $9.83 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 116 AI Prompts
+🧠 21 AI Sessions, 89 AI Prompts
 
-Opencode-Cli             1,761 lines         █████████████████████████   100.00 % 
+Opencode-Cli             725 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📄 Detailed Prompter — average 838 characters per prompt
+🤖 AI-Driven — 99.5% of written lines came from AI
+📄 Detailed Prompter — average 989 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.41% of changed lines were hand-edited
+🚀 High AI Trust — 0.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -174,7 +174,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 23:56:41 UTC
+ Last Updated on 01/08/2026 23:16:20 UTC
 <!--END_SECTION:waka-->
 
 ---
