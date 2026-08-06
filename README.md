@@ -113,47 +113,41 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
-Vue                      2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.40 % 
-YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+TypeScript               25 mins             █████████████████████░░░░   85.98 % 
+YAML                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tp-01                    5 hrs 22 mins       ███████████████████████░░   90.36 % 
-config                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-scrapper                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-jarvis                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+tp-01                    29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 24 mins (74.12%)
+⏱ AI Coding Time: 25 mins (85.98%)
 
-✍️ 768 lines written by AI, 4 lines written by hand (99.48% AI-written)
+✍️ 12 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,291,923 Input Tokens, 143,588 Output Tokens
+🔤 251,330 Input Tokens, 37,880 Output Tokens
 
-💵 $9.03 Estimated AI Cost This Week
+💵 $1.32 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 72 AI Prompts
+🧠 6 AI Sessions, 6 AI Prompts
 
-Opencode-Cli             901 lines           █████████████████████████   100.00 % 
+Opencode-Cli             36 lines            █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📄 Detailed Prompter — average 858 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.66% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,342 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,7 +167,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 00:14:35 UTC
+ Last Updated on 06/08/2026 00:07:19 UTC
 <!--END_SECTION:waka-->
 
 ---
