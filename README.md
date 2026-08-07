@@ -68,15 +68,11 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2049%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2029%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 41.3 kB Used in GitHub's Storage 
+> 📦 41.4 kB Used in GitHub's Storage 
  > 
 > 🏆 196 Contributions in the Year 2026
  > 
@@ -86,70 +82,6 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                931 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌆 Daytime                4185 commits        █████████████░░░░░░░░░░░░   51.51 % 
-🌃 Evening                2044 commits        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-🌙 Night                  965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2335 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-Tuesday                  1744 commits        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Wednesday                1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Thursday                 1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   881 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Saturday                 92 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Sunday                   402 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-TypeScript               25 mins             █████████████████████░░░░   85.98 % 
-YAML                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-
-🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-tp-01                    29 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    29 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 25 mins (85.98%)
-
-✍️ 12 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 251,330 Input Tokens, 37,880 Output Tokens
-
-💵 $1.32 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 6 AI Prompts
-
-Opencode-Cli             36 lines            █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,342 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -167,7 +99,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 00:07:19 UTC
+ Last Updated on 07/08/2026 04:13:15 UTC
 <!--END_SECTION:waka-->
 
 ---
