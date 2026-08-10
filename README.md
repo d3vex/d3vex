@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2050%20mins-blue?style=flat)
 
@@ -86,6 +86,79 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+🌆 Daytime                4188 commits        █████████████░░░░░░░░░░░░   51.38 % 
+🌃 Evening                2065 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌙 Night                  965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2335 commits        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+Tuesday                  1744 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Wednesday                1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Thursday                 1258 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Friday                   888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Saturday                 92 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Sunday                   402 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+JavaScript               7 hrs 48 mins       █████████████░░░░░░░░░░░░   51.42 % 
+Python                   2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+TypeScript               2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Vue                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 12 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+portfolio                6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.13 % 
+config                   4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.52 % 
+tp-01                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Crunchyroll-Account-Check1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+2captcha-AI              1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+
+💻 Operating System: 
+Linux                    15 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 35 mins (82.78%)
+
+✍️ 12,258 lines written by AI, 341 lines written by hand (97.29% AI-written)
+
+🔤 5,883,623 Input Tokens, 560,726 Output Tokens
+
+💵 $26.06 Estimated AI Cost This Week
+
+🧠 70 AI Sessions, 188 AI Prompts
+
+Opencode-Cli             9,247 lines         ██████████████████░░░░░░░   73.38 % 
+Deepseek                 1,604 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Mimo                     1,375 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Ling                     324 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Nemotron                 52 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.29% of written lines came from AI
+📚 Verbose Prompter — average 1,984 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.98% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -103,7 +176,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 22:56:09 UTC
+ Last Updated on 10/08/2026 23:24:48 UTC
 <!--END_SECTION:waka-->
 
 ---
