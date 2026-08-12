@@ -68,9 +68,9 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,50 +113,50 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               7 hrs 48 mins       █████████████░░░░░░░░░░░░   50.93 % 
-Python                   2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-TypeScript               2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Vue                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+JavaScript               8 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
+TypeScript               3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Python                   2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Vue                      2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+CSS                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.72 % 
-config                   4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.21 % 
-tp-01                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Crunchyroll-Account-Check1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-2captcha-AI              1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+portfolio                6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
+tp-01                    5 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+config                   4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+compte-rendu             2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Crunchyroll-Account-Check1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 💻 Operating System: 
-Linux                    15 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 43 mins (82.94%)
+⏱ AI Coding Time: 18 hrs 49 mins (87.43%)
 
-✍️ 12,277 lines written by AI, 341 lines written by hand (97.3% AI-written)
+✍️ 14,545 lines written by AI, 353 lines written by hand (97.63% AI-written)
 
-🔤 6,077,370 Input Tokens, 605,621 Output Tokens
+🔤 9,119,448 Input Tokens, 1,540,798 Output Tokens
 
-💵 $33.71 Estimated AI Cost This Week
+💵 $234.36 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 190 AI Prompts
+🧠 84 AI Sessions, 246 AI Prompts
 
-Opencode-Cli             9,268 lines         ██████████████████░░░░░░░   73.42 % 
-Deepseek                 1,604 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Mimo                     1,375 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Ling                     324 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Nemotron                 52 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Opencode-Cli             11,154 lines        ███████████████████░░░░░░   74.75 % 
+Deepseek                 1,604 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Mimo                     1,375 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+S                        412 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Ling                     324 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.3% of written lines came from AI
-📚 Verbose Prompter — average 1,966 characters per prompt
+🤖 AI-Driven — 97.63% of written lines came from AI
+📚 Verbose Prompter — average 1,783 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.98% of changed lines were hand-edited
+🚀 High AI Trust — 4.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -176,7 +176,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 23:37:33 UTC
+ Last Updated on 12/08/2026 23:45:59 UTC
 <!--END_SECTION:waka-->
 
 ---
