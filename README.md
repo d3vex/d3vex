@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2018%20mins-blue?style=flat)
 
@@ -113,49 +113,49 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   6 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-JavaScript               4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-HTML                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-TypeScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Python                   10 hrs 38 mins      ████████████░░░░░░░░░░░░░   48.98 % 
+Markdown                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+HTML                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JavaScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+CSS                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 Editors: 
-VS Code                  21 hrs              █████████████████████████   100.00 % 
+VS Code                  21 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProbabilityX             4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-2captcha-AI              3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-tp-01                    3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-portfolio                3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-compte-rendu             2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+2captcha-AI              10 hrs 50 mins      ████████████░░░░░░░░░░░░░   49.89 % 
+ProbabilityX             4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+tp-01                    3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+compte-rendu             2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+portfolio                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Linux                    21 hrs              █████████████████████████   100.00 % 
+Linux                    21 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 43 mins (74.87%)
+⏱ AI Coding Time: 10 hrs 41 mins (49.24%)
 
-✍️ 6,543 lines written by AI, 918 lines written by hand (87.7% AI-written)
+✍️ 3,730 lines written by AI, 3,452 lines written by hand (51.94% AI-written)
 
-🔤 7,750,821 Input Tokens, 2,101,033 Output Tokens
+🔤 6,523,825 Input Tokens, 1,971,592 Output Tokens
 
-💵 $361.80 Estimated AI Cost This Week
+💵 $356.54 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 157 AI Prompts
+🧠 39 AI Sessions, 114 AI Prompts
 
-Opencode-Cli             5,692 lines         ███████████████████░░░░░░   77.70 % 
-Deepseek                 1,218 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-S                        412 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Mimo                     4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Opencode-Cli             2,906 lines         ████████████████░░░░░░░░░   64.01 % 
+Deepseek                 1,218 lines         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+S                        412 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Mimo                     4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.7% of written lines came from AI
-📚 Verbose Prompter — average 1,589 characters per prompt
+⚖️ Balanced with AI — 51.94% of written lines came from AI
+📄 Detailed Prompter — average 1,429 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.54% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 56.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -175,7 +175,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 23:45:37 UTC
+ Last Updated on 15/08/2026 22:49:34 UTC
 <!--END_SECTION:waka-->
 
 ---
