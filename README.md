@@ -68,9 +68,9 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,48 +113,48 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   10 hrs 38 mins      ████████████░░░░░░░░░░░░░   49.52 % 
-Markdown                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-HTML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-JavaScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-CSS                      1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Python                   11 hrs 56 mins      ███████████░░░░░░░░░░░░░░   45.55 % 
+Vue                      3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+JavaScript               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Markdown                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+HTML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2captcha-AI              10 hrs 50 mins      █████████████░░░░░░░░░░░░   50.43 % 
-ProbabilityX             4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-tp-01                    3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-compte-rendu             2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+2captcha-AI              12 hrs 10 mins      ████████████░░░░░░░░░░░░░   46.42 % 
+tp-01                    7 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+ProbabilityX             4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+compte-rendu             2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 
 💻 Operating System: 
-Linux                    21 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 27 mins (48.69%)
+⏱ AI Coding Time: 13 hrs 57 mins (53.25%)
 
-✍️ 3,689 lines written by AI, 3,452 lines written by hand (51.66% AI-written)
+✍️ 4,169 lines written by AI, 3,575 lines written by hand (53.84% AI-written)
 
-🔤 6,323,911 Input Tokens, 1,961,794 Output Tokens
+🔤 8,290,040 Input Tokens, 2,628,117 Output Tokens
 
-💵 $355.81 Estimated AI Cost This Week
+💵 $503.06 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 110 AI Prompts
+🧠 42 AI Sessions, 135 AI Prompts
 
-Opencode-Cli             2,865 lines         ████████████████░░░░░░░░░   63.68 % 
-Deepseek                 1,218 lines         ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-S                        412 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Mimo                     4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Opencode-Cli             3,325 lines         █████████████████░░░░░░░░   66.62 % 
+Deepseek                 1,250 lines         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+S                        412 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Mimo                     4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.66% of written lines came from AI
-📄 Detailed Prompter — average 1,474 characters per prompt
+⚖️ Balanced with AI — 53.84% of written lines came from AI
+📄 Detailed Prompter — average 1,451 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 57.21% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 54.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -174,7 +174,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 22:44:27 UTC
+ Last Updated on 17/08/2026 23:05:57 UTC
 <!--END_SECTION:waka-->
 
 ---
