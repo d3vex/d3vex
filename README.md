@@ -86,75 +86,6 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-🌆 Daytime                4188 commits        █████████████░░░░░░░░░░░░   51.38 % 
-🌃 Evening                2065 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-🌙 Night                  965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2335 commits        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Tuesday                  1744 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-Wednesday                1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Thursday                 1258 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Friday                   888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Saturday                 92 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Sunday                   402 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Python                   16 hrs 55 mins      █████████████████░░░░░░░░   66.94 % 
-JavaScript               2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-TypeScript               2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Vue                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-
-🔥 Editors: 
-VS Code                  25 hrs 17 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-2captcha-AI              18 hrs 45 mins      ███████████████████░░░░░░   74.19 % 
-tp-01                    3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-portfolio                3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-
-💻 Operating System: 
-Linux                    25 hrs 17 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 55 mins (31.37%)
-
-✍️ 6,746 lines written by AI, 15,332 lines written by hand (30.56% AI-written)
-
-🔤 3,990,990 Input Tokens, 1,276,224 Output Tokens
-
-💵 $313.13 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 57 AI Prompts
-
-Opencode-Cli             4,035 lines         █████████████░░░░░░░░░░░░   52.98 % 
-Mimo                     2,186 lines         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-Deepseek                 1,395 lines         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.56% of written lines came from AI
-📄 Detailed Prompter — average 1,357 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 72.57% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -172,7 +103,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 23:12:06 UTC
+ Last Updated on 22/08/2026 22:48:38 UTC
 <!--END_SECTION:waka-->
 
 ---
