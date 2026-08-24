@@ -113,46 +113,45 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   10 hrs 4 mins       ███████████████░░░░░░░░░░   58.33 % 
-TypeScript               2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Vue                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-JavaScript               1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Python                   8 hrs 46 mins       ██████████████████░░░░░░░   70.67 % 
+TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+JavaScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Vue                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2captcha-AI              10 hrs 44 mins      ████████████████░░░░░░░░░   62.20 % 
-tp-01                    3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-portfolio                3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+2captcha-AI              9 hrs 24 mins       ███████████████████░░░░░░   75.81 % 
+portfolio                3 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
 
 💻 Operating System: 
-Linux                    17 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 55 mins (45.93%)
+⏱ AI Coding Time: 4 hrs 25 mins (35.7%)
 
-✍️ 6,746 lines written by AI, 12,463 lines written by hand (35.12% AI-written)
+✍️ 6,266 lines written by AI, 12,337 lines written by hand (33.68% AI-written)
 
-🔤 3,990,990 Input Tokens, 1,276,224 Output Tokens
+🔤 2,024,861 Input Tokens, 609,901 Output Tokens
 
-💵 $280.94 Estimated AI Cost This Week
+💵 $133.69 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 57 AI Prompts
+🧠 8 AI Sessions, 32 AI Prompts
 
-Opencode-Cli             3,497 lines         █████████████░░░░░░░░░░░░   51.47 % 
-Mimo                     2,182 lines         ████████░░░░░░░░░░░░░░░░░   32.12 % 
-Deepseek                 1,115 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Opencode-Cli             3,037 lines         ████████████░░░░░░░░░░░░░   48.19 % 
+Mimo                     2,182 lines         █████████░░░░░░░░░░░░░░░░   34.62 % 
+Deepseek                 1,083 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.12% of written lines came from AI
-📄 Detailed Prompter — average 1,357 characters per prompt
+⚖️ Balanced with AI — 33.68% of written lines came from AI
+📄 Detailed Prompter — average 1,363 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 67.66% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 69.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -172,7 +171,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 22:28:16 UTC
+ Last Updated on 24/08/2026 23:18:46 UTC
 <!--END_SECTION:waka-->
 
 ---
