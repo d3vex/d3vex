@@ -113,45 +113,23 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   8 hrs 46 mins       ██████████████████░░░░░░░   70.67 % 
-TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-JavaScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Vue                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   3 hrs 15 mins       █████████████████████░░░░   85.61 % 
+JavaScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2captcha-AI              9 hrs 24 mins       ███████████████████░░░░░░   75.81 % 
-portfolio                3 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+2captcha-AI              3 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 25 mins (35.7%)
-
-✍️ 6,266 lines written by AI, 12,337 lines written by hand (33.68% AI-written)
-
-🔤 2,024,861 Input Tokens, 609,901 Output Tokens
-
-💵 $133.69 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 32 AI Prompts
-
-Opencode-Cli             3,037 lines         ████████████░░░░░░░░░░░░░   48.19 % 
-Mimo                     2,182 lines         █████████░░░░░░░░░░░░░░░░   34.62 % 
-Deepseek                 1,083 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.68% of written lines came from AI
-📄 Detailed Prompter — average 1,363 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 69.08% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,7 +149,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 23:18:46 UTC
+ Last Updated on 25/08/2026 23:18:04 UTC
 <!--END_SECTION:waka-->
 
 ---
