@@ -113,17 +113,16 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   3 hrs 15 mins       █████████████████████░░░░   85.61 % 
-JavaScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Python                   2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2captcha-AI              3 hrs 48 mins       █████████████████████████   100.00 % 
+2captcha-AI              2 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -149,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 23:18:04 UTC
+ Last Updated on 27/08/2026 00:31:00 UTC
 <!--END_SECTION:waka-->
 
 ---
