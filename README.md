@@ -68,9 +68,9 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,51 +86,6 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-🌆 Daytime                4188 commits        █████████████░░░░░░░░░░░░   51.38 % 
-🌃 Evening                2065 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-🌙 Night                  965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2335 commits        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Tuesday                  1744 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-Wednesday                1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Thursday                 1258 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Friday                   888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Saturday                 92 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Sunday                   402 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Python                   2 hrs 55 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-2captcha-AI              2 hrs 55 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -148,7 +103,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 06:22:44 UTC
+ Last Updated on 29/08/2026 05:51:38 UTC
 <!--END_SECTION:waka-->
 
 ---
