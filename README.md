@@ -68,9 +68,9 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-227%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,45 +113,45 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-Vue                      2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Markdown                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-HTML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Vue                      5 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+TypeScript               3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Python                   3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+HTML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                9 hrs 29 mins       ████████████████░░░░░░░░░   65.76 % 
-career-ops               4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-2captcha-AI              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+portfolio                12 hrs 47 mins      ████████████████░░░░░░░░░   63.30 % 
+career-ops               4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+2captcha-AI              3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
 
 💻 Operating System: 
-Linux                    14 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 58 mins (82.95%)
+⏱ AI Coding Time: 15 hrs 18 mins (75.77%)
 
-✍️ 12,067 lines written by AI, 115 lines written by hand (99.06% AI-written)
+✍️ 14,230 lines written by AI, 3,484 lines written by hand (80.33% AI-written)
 
-🔤 15,616,886 Input Tokens, 1,024,804 Output Tokens
+🔤 17,652,803 Input Tokens, 1,219,514 Output Tokens
 
-💵 $404.81 Estimated AI Cost This Week
+💵 $530.65 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 118 AI Prompts
+🧠 65 AI Sessions, 159 AI Prompts
 
-Opencode-Cli             12,342 lines        ████████████████████████░   97.56 % 
-Mimo                     309 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Opencode-Cli             14,573 lines        ████████████████████████░   97.92 % 
+Mimo                     309 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.06% of written lines came from AI
-📚 Verbose Prompter — average 3,644 characters per prompt
+🤖 AI-Driven — 80.33% of written lines came from AI
+📚 Verbose Prompter — average 3,272 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.58% of changed lines were hand-edited
+🚀 High AI Trust — 21.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,7 +171,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 00:35:40 UTC
+ Last Updated on 07/09/2026 00:39:45 UTC
 <!--END_SECTION:waka-->
 
 ---
