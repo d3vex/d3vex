@@ -68,9 +68,9 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-234%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,47 +113,47 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      9 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.10 % 
-TypeScript               4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Python                   4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Markdown                 2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-JavaScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Vue                      11 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   35.94 % 
+Python                   5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+TypeScript               5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Markdown                 2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                16 hrs 7 mins       ███████████████░░░░░░░░░░   58.01 % 
-2captcha-AI              5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-career-ops               4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-neeft_front_v5           1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-neeft_back_v4            17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+portfolio                16 hrs 7 mins       █████████████░░░░░░░░░░░░   51.78 % 
+2captcha-AI              6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+neeft_front_v5           4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+career-ops               4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+neeft_back_v4            17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Linux                    27 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 59 mins (68.35%)
+⏱ AI Coding Time: 21 hrs 39 mins (69.58%)
 
-✍️ 16,221 lines written by AI, 4,461 lines written by hand (78.43% AI-written)
+✍️ 17,006 lines written by AI, 4,489 lines written by hand (79.12% AI-written)
 
-🔤 21,334,449 Input Tokens, 1,792,710 Output Tokens
+🔤 23,656,664 Input Tokens, 2,047,922 Output Tokens
 
-💵 $680.73 Estimated AI Cost This Week
+💵 $766.89 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 193 AI Prompts
+🧠 86 AI Sessions, 230 AI Prompts
 
-Opencode-Cli             16,775 lines        █████████████████████████   98.19 % 
-Mimo                     309 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Opencode-Cli             17,561 lines        █████████████████████████   98.01 % 
+Mimo                     357 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.43% of written lines came from AI
-📚 Verbose Prompter — average 3,100 characters per prompt
+🤖 AI-Driven — 79.12% of written lines came from AI
+📚 Verbose Prompter — average 2,880 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 23.35% of changed lines were hand-edited
+🚀 High AI Trust — 22.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,7 +173,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 01:53:18 UTC
+ Last Updated on 09/09/2026 01:33:55 UTC
 <!--END_SECTION:waka-->
 
 ---
