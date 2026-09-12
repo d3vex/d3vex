@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2049%20mins-blue?style=flat)
 
@@ -113,47 +113,47 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      14 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   35.82 % 
-Python                   9 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-TypeScript               9 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-Other                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-JavaScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Vue                      14 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   36.48 % 
+Python                   9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+TypeScript               8 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Other                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+JavaScript               1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  39 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                24 hrs 46 mins      ███████████████░░░░░░░░░░   60.31 % 
-2captcha-AI              10 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-neeft_front_v5           4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-anapache                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-devex                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+portfolio                22 hrs 50 mins      ███████████████░░░░░░░░░░   58.44 % 
+2captcha-AI              10 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+neeft_front_v5           4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+anapache                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+devex                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 💻 Operating System: 
-Linux                    41 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    39 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 53 mins (67.9%)
+⏱ AI Coding Time: 26 hrs 5 mins (66.75%)
 
-✍️ 23,474 lines written by AI, 4,750 lines written by hand (83.17% AI-written)
+✍️ 22,767 lines written by AI, 4,733 lines written by hand (82.79% AI-written)
 
-🔤 28,718,054 Input Tokens, 3,038,402 Output Tokens
+🔤 26,187,527 Input Tokens, 2,861,908 Output Tokens
 
-💵 $1137.01 Estimated AI Cost This Week
+💵 $1045.68 Estimated AI Cost This Week
 
-🧠 127 AI Sessions, 326 AI Prompts
+🧠 101 AI Sessions, 282 AI Prompts
 
-Opencode-Cli             23,480 lines        ████████████████████████░   94.81 % 
-Mimo                     1,286 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Opencode-Cli             22,826 lines        ████████████████████████░   95.90 % 
+Mimo                     977 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.17% of written lines came from AI
-📚 Verbose Prompter — average 2,561 characters per prompt
+🤖 AI-Driven — 82.79% of written lines came from AI
+📚 Verbose Prompter — average 2,391 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.73% of changed lines were hand-edited
+🚀 High AI Trust — 19.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,7 +173,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 01:12:44 UTC
+ Last Updated on 12/09/2026 01:17:46 UTC
 <!--END_SECTION:waka-->
 
 ---
