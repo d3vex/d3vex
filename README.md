@@ -68,7 +68,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-256%20hrs%2016%20mins-blue?style=flat)
 
@@ -113,28 +113,28 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   42.93 % 
-TypeScript               2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Vue                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Python                   4 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.42 % 
+TypeScript               2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Vue                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2captcha-AI              4 hrs 55 mins       █████████████░░░░░░░░░░░░   51.15 % 
-anapache                 4 hrs               ██████████░░░░░░░░░░░░░░░   41.68 % 
-rbx_hero_game            41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+2captcha-AI              5 hrs 9 mins        █████████████░░░░░░░░░░░░   52.38 % 
+anapache                 3 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.61 % 
+rbx_hero_game            41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 💻 Operating System: 
-Linux                    9 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 27 mins (77.5%)
+⏱ AI Coding Time: 7 hrs 27 mins (75.72%)
 
 ✍️ 10,295 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
@@ -152,7 +152,7 @@ Spark                    18 lines            ░░░░░░░░░░░�
 🤖 AI-Driven — 99.98% of written lines came from AI
 📚 Verbose Prompter — average 2,098 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.72% of changed lines were hand-edited
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -172,7 +172,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 02:10:41 UTC
+ Last Updated on 19/09/2026 01:36:53 UTC
 <!--END_SECTION:waka-->
 
 ---
