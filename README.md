@@ -113,48 +113,48 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.61 % 
-TypeScript               1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Other                    1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Luau                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Python                   3 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.46 % 
+TypeScript               1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Other                    1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Luau                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2captcha-AI              4 hrs 56 mins       █████████████░░░░░░░░░░░░   52.10 % 
-v2                       2 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-anapache                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-rbx_hero_game            41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+2captcha-AI              4 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.68 % 
+v2                       2 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+anapache                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+rbx_hero_game            41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-Linux                    9 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 12 mins (76.01%)
+⏱ AI Coding Time: 6 hrs 49 mins (77.11%)
 
-✍️ 5,171 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 5,171 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,553,810 Input Tokens, 720,467 Output Tokens
+🔤 6,295,576 Input Tokens, 710,461 Output Tokens
 
-💵 $343.74 Estimated AI Cost This Week
+💵 $341.58 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 59 AI Prompts
+🧠 20 AI Sessions, 58 AI Prompts
 
 Opencode-Cli             5,371 lines         ██████████████████████░░░   88.19 % 
 Mimo                     701 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 Spark                    18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,627 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,654 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.38% of changed lines were hand-edited
+🚀 High AI Trust — 1.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -174,7 +174,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 01:09:21 UTC
+ Last Updated on 22/09/2026 02:41:46 UTC
 <!--END_SECTION:waka-->
 
 ---
