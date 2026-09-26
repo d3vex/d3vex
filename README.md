@@ -113,28 +113,25 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 21 mins        █████████████░░░░░░░░░░░░   51.37 % 
-TypeScript               41 mins             ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-Vue                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Other                    1 hr 21 mins        ██████████████░░░░░░░░░░░   56.42 % 
+TypeScript               41 mins             ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+Vue                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-v2                       2 hrs 6 mins        ████████████████████░░░░░   79.91 % 
-Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-2captcha-AI              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+v2                       2 hrs 6 mins        ██████████████████████░░░   87.76 % 
+Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 💻 Operating System: 
-Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (91.05%)
+⏱ AI Coding Time: 2 hrs 24 mins (100.0%)
 
 ✍️ 146 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -150,7 +147,7 @@ Opencode-Cli             152 lines           ███████████�
 🤖 AI-Driven — 100.0% of written lines came from AI
 📚 Verbose Prompter — average 3,459 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.65% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,7 +167,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 02:18:22 UTC
+ Last Updated on 26/09/2026 01:55:56 UTC
 <!--END_SECTION:waka-->
 
 ---
