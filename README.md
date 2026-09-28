@@ -113,41 +113,22 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 21 mins        ██████████████░░░░░░░░░░░   56.42 % 
-TypeScript               41 mins             ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-Vue                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-v2                       2 hrs 6 mins        ██████████████████████░░░   87.76 % 
-Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (100.0%)
-
-✍️ 146 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,291,641 Input Tokens, 168,312 Output Tokens
-
-💵 $22.15 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 10 AI Prompts
-
-Opencode-Cli             152 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,459 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 01:45:54 UTC
+ Last Updated on 28/09/2026 02:01:37 UTC
 <!--END_SECTION:waka-->
 
 ---
