@@ -68,9 +68,9 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -86,51 +86,6 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                4213 commits        █████████████░░░░░░░░░░░░   50.97 % 
-🌃 Evening                2096 commits        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-🌙 Night                  1006 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2394 commits        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-Tuesday                  1761 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Wednesday                1433 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Thursday                 1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Friday                   899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Saturday                 93 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Sunday                   402 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -148,7 +103,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 02:56:45 UTC
+ Last Updated on 13/10/2026 05:39:04 UTC
 <!--END_SECTION:waka-->
 
 ---
