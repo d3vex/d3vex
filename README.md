@@ -78,11 +78,11 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 
 > 📦 41.9 kB Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2026
+> 🏆 155 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -113,52 +113,32 @@ Sunday                   402 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      1 hr 57 mins        ███████████████░░░░░░░░░░   60.57 % 
-JavaScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Docker                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-v2                       3 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 8 mins (97.46%)
-
-✍️ 1,522 lines written by AI, 71 lines written by hand (95.54% AI-written)
-
-🔤 4,048,727 Input Tokens, 531,726 Output Tokens
-
-💵 $116.45 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 42 AI Prompts
-
-Opencode-Cli             1,672 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.54% of written lines came from AI
-📄 Detailed Prompter — average 1,465 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.07% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Vue                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Vue                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
@@ -168,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 23:08:33 UTC
+ Last Updated on 20/10/2026 22:26:06 UTC
 <!--END_SECTION:waka-->
 
 ---
