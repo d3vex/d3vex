@@ -72,7 +72,7 @@ I'm a French IT student with a passion for **infrastructure**, **DevOps**, and b
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -134,11 +134,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Vue                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Vue                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
@@ -148,7 +148,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/d3vex/d3vex/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 22:30:47 UTC
+ Last Updated on 22/10/2026 22:30:13 UTC
 <!--END_SECTION:waka-->
 
 ---
